@@ -1,0 +1,3534 @@
+,Model_Name,Price,CC,Mileage,Weight
+0,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+4,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+5,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+6,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+7,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+8,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+9,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+10,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+11,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+12,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+13,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+14,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+15,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+16,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+17,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+18,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+19,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+20,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+21,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+22,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+23,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+24,Bajaj Pulsar 150,95872,149.5 CC,65 Km/l,144 Kg
+25,Hero Super Splendor,73900,124.7 CC,60 Km/l,123 Kg
+26,Bajaj Pulsar 125,72122,124.4 CC,62 Km/l,140 Kg
+27,Yamaha FZ S V3.0 FI,115900,149.0 CC,45 Km/l,135 Kg
+28,Bajaj Pulsar 220,123245,220.0 CC,40 Km/l,155 Kg
+29,Bajaj Pulsar NS 125,93818,124.4 CC,,144 Kg
+30,Hero Passion Pro i3S,67400,113.2 CC,84 Km/l,117 Kg
+31,KTM RC 125,180538,124.7 CC,41.3 Km/l,135 Kg
+32,Honda CB Unicorn 160,98931,162.7 CC,62 Km/l,134 Kg
+33,Yamaha MT-15 V2.0,160900,155.0 CC,48 Km/l,139 Kg
+34,Yamaha R15 V3.0,157600,155.0 CC,30 Km/l,142 Kg
+35,Hero Pleasure + 110,61900,110.9 CC,69 Km/l,104 Kg
+36,Hero HF Deluxe i3s,59800,97.2 CC,88.5 Km/l,110 Kg
+37,Hero Xtreme 160R,111610,163.0 CC,55 Km/l,139 Kg
+38,Hero Glamour 125,74900,124.7 CC,60 Km/l,126 Kg
+39,Hero XPulse 200 4V,130150,199.6 CC,,158 Kg
+40,Hero Maestro Edge,65900,110.9 CC,65 Km/l,112 Kg
+41,Royal Enfield Continental GT 650,298079,648.0 CC,25.5 Km/l,198 Kg
+43,Hero Splendor Pro,49598,97.2 CC,65 Km/l,112 Kg
+44,Royal Enfield Scram 411,203000,411.0 CC,,185 Kg
+45,Kawasaki Ninja H2R,7990000,998.0 CC,15 Km/l,216 Kg
+46,Hero Xtreme 200S,120214,199.6 CC,36.9 Km/l,155 Kg
+47,Hero Splendor iSmart,65950,113.2 CC,75 Km/l,116 Kg
+48,Hero XPulse 200,118230,199.6 CC,42 Km/l,157 Kg
+49,TVS XL 100,40990,99.7 CC,67 Km/l,88 Kg
+50,Hero XPulse 200T,115800,199.6 CC,43 Km/l,154 Kg
+51,Royal Enfield Interceptor 650,281518,648.0 CC,25.5 Km/l,202 Kg
+52,Hero Maestro Edge 125,73450,124.6 CC,49 Km/l,110 Kg
+53,TVS Raider,84573,124.8 CC,67 Km/l,123 Kg
+54,Yamaha YZF R15 V4.0,170800,155.0 CC,45 Km/l,142 Kg
+55,Yamaha YZF R1,2039233,998.0 CC,20 Km/l,200 Kg
+56,Honda CD 110 Dream,65248,109.5 CC,74 Km/l,109 Kg
+57,Bajaj Platina 110,65930,115.0 CC,80 Km/l,108 Kg
+58,Bajaj Pulsar 200 NS,131219,199.5 CC,35 Km/l,152 Kg
+59,TVS Apache RTR 160,112940,159.7 CC,48 Km/l,139 Kg
+60,Honda Hornet 2.0,132238,184.4 CC,40 Km/l,142 Kg
+61,KTM RC 200,213000,199.5 CC,35 Km/l,151 Kg
+62,Bajaj Platina 100,52915,102.0 CC,96.9 Km/l,117 Kg
+63,Suzuki Gixxer SF,129300,154.9 CC,47 Km/l,146 Kg
+64,TVS Jupiter,70085,109.7 CC,62 Km/l,109 Kg
+65,Yamaha Aerox 155,129000,155.0 CC,,122 Kg
+66,Bajaj Avenger Cruise 220,122630,220.0 CC,40 Km/l,159 Kg
+67,Honda Livo,70799,109.5 CC,74 Km/l,115 Kg
+68,Kawasaki Ninja 300,337000,296.0 CC,26 Km/l,179 Kg
+69,TVS Ntorq 125,77106,124.8 CC,60 Km/l,118 Kg
+70,Yamaha FZ 25,134800,249.0 CC,43 Km/l,153 Kg
+71,Honda X-Blade,111895,162.7 CC,45 Km/l,143 Kg
+72,Suzuki V-Strom SX 250,211600,249.0 CC,,167 Kg
+73,Honda Activa 125 FI,72637,124.0 CC,45 Km/l,111 Kg
+74,Bajaj CT 100,40794,102.0 CC,89.5 Km/l,114 Kg
+75,Hero HF 100,49400,97.2 CC,70 Km/l,110 Kg
+76,Suzuki New Access 125,72600,124.0 CC,64 Km/l,103 Kg
+77,Bajaj Pulsar NS160,110086,160.3 CC,45 Km/l,151 Kg
+78,KTM RC 390,314000,373.2 CC,35 Km/l,147 Kg
+80,JAWA Forty Two,171415,293.0 CC,37.5 Km/l,170 Kg
+81,Yamaha Fascino 125,70000,125.0 CC,66 Km/l,99 Kg
+82,Bajaj Pulsar 180,108000,178.6 CC,45 Km/l,151 Kg
+83,Hero Destini 125,67990,124.6 CC,54 Km/l,113 Kg
+84,Honda CB 350 RS,196006,348.4 CC,35 Km/l,179 Kg
+85,KTM 250 Duke,228736,248.8 CC,30 Km/l,169 Kg
+86,TVS Apache RTR 160 4V,111565,159.7 CC,30 Km/l,145 Kg
+87,BMW G 310 R,250000,313.0 CC,30 Km/l,158 Kg
+89,Yamaha Ray-ZR 125FI,73330,125.0 CC,66 Km/l,99 Kg
+90,TVS Radeon,59942,109.7 CC,69 Km/l,116 Kg
+91,Suzuki Hayabusa,1640000,1340.0 CC,11 Km/l,266 Kg
+93,KTM 390 Duke,287545,373.2 CC,35 Km/l,167 Kg
+94,Yamaha MT-09,1055354,847.0 CC,19 Km/l,193 Kg
+95,TVS Sport,52500,109.7 CC,76.4 Km/l,110 Kg
+97,Bajaj Pulsar N250,138000,249.1 CC,,162 Kg
+98,Benelli TNT 600i,620000,600.0 CC,19 Km/l,231 Kg
+99,Honda CBR 1000RR,1643309,999.0 CC,18 Km/l,195 Kg
+100,Yezdi Roadster,198142,334.0 CC,,184 Kg
+101,Suzuki Avenis,86500,124.3 CC,55 Km/l,106 Kg
+102,TVS Scooty Pep +,52554,87.8 CC,65 Km/l,95 Kg
+103,TVS Apache RR 310,259000,312.2 CC,30 Km/l,170 Kg
+105,KTM 200 Duke,190000,199.5 CC,35 Km/l,159 Kg
+106,Suzuki Gixxer SF 250,181900,249.0 CC,38.5 Km/l,161 Kg
+107,Kawasaki Ninja ZX-10R,1537000,998.0 CC,15 Km/l,206 Kg
+108,BMW S 1000 RR,1950000,999.0 CC,17 Km/l,197 Kg
+109,Suzuki Burgman,84300,124.0 CC,53.5 Km/l,110 Kg
+111,Bajaj Dominar 250,154176,248.8 CC,35 Km/l,180 Kg
+112,TVS Star City +,65865,109.7 CC,86 Km/l,116 Kg
+113,TVS Apache RTR 180,103950,177.4 CC,47 Km/l,139 Kg
+114,Bajaj CT 110,46413,115.0 CC,104 Km/l,117 Kg
+115,Yamaha FZ-X,116800,149.0 CC,,139 Kg
+116,Bajaj Avenger Street 160,101094,160.3 CC,45 Km/l,156 Kg
+118,Kawasaki Ninja 650,668000,649.0 CC,21 Km/l,196 Kg
+119,TVS Victor,54042,109.7 CC,72 - 76 Km/l,112 Kg
+121,Honda Grazia,82566,124.0 CC,54 Km/l,107 Kg
+125,Bajaj Avenger Street 220,103891,220.0 CC,45 Km/l,150 Kg
+126,JAWA Perak,208187,334.0 CC,35 Km/l,175 Kg
+127,Bajaj Pulsar RS 200,152179,199.5 CC,35 Km/l,165 Kg
+128,Piaggio Vespa,91492,125.0 CC,45 Km/l,114 Kg
+129,BMW R 1250 GS,2045000,1254.0 CC,21 Km/l,249 Kg
+130,Suzuki Intruder,126500,154.9 CC,44 Km/l,152 Kg
+131,KTM 125 Duke,176000,124.7 CC,34.5 Km/l,148 Kg
+132,Honda Gold Wing,3971822,1833.0 CC,14 Km/l,390 Kg
+133,TVS Jupiter 125,73400,124.8 CC,50 Km/l,109 Kg
+134,Suzuki Gixxer,118800,154.9 CC,64 Km/l,140 Kg
+135,Aprilia SR 150,75733,154.8 CC,40 Km/l,122 Kg
+136,Honda CB200X,144500,184.4 CC,,147 Kg
+137,Husqvarna Svartpilen 250,218000,248.8 CC,35 Km/l,154 Kg
+138,TVS Scooty Zest 110,59925,109.7 CC,62 Km/l,97 Kg
+139,Yamaha R15S V3.0,158939,155.0 CC,,142 Kg
+140,Kawasaki Ninja 400,499000,399.0 CC,25 Km/l,173 Kg
+141,Kawasaki Z900,850000,948.0 CC,15 Km/l,208 Kg
+142,Kawasaki Ninja 1000,1151000,1043.0 CC,17 Km/l,238 Kg
+143,Yamaha FZ V3.0 FI,99200,149.0 CC,45 Km/l,137 Kg
+144,Honda H Ness CB 350,196239,348.4 CC,42 Km/l,181 Kg
+145,Indian Scout Bobber,1199000,1133.0 CC,14 Km/l,245 Kg
+146,BMW R nine T,1850000,1170.0 CC,22 Km/l,208 Kg
+147,Yamaha Fazer 25,144180,249.0 CC,43 Km/l,154 Kg
+148,Kawasaki Ninja H2,3499000,998.0 CC,15 Km/l,238 Kg
+149,JAWA 42,193142,293.0 CC,37 Km/l,170 Kg
+150,Bajaj Dominar 400 [2019],202755,373.3 CC,27 Km/l,184 Kg
+152,TVS Apache RTR 200 4V,129315,197.8 CC,32 Km/l,149 Kg
+153,Kawasaki Z1000,1510000,1043.0 CC,15 Km/l,221 Kg
+155,Kawasaki Z250,308000,249.0 CC,26 Km/l,168 Kg
+156,BMW G 310 GS,290000,313.0 CC,30 Km/l,169 Kg
+157,Benelli Imperiale 400,189799,374.0 CC,31.25 Km/l,205 Kg
+158,Husqvarna Vitpilen 250,215000,248.8 CC,35 Km/l,152 Kg
+159,MV Agusta F3 800 RC,2149086,798.0 CC,14 Km/l,173 Kg
+160,Yezdi Scrambler,204900,334.0 CC,,182 Kg
+161,Yamaha FZS 25,143300,249.0 CC,43 Km/l,154 Kg
+162,BMW R 1200,1585000,1170.0 CC,18 - 24 Km/l,244 Kg
+163,Harley-Davidson Fat Boy,1825000,1868.0 CC,15 Km/l,304 Kg
+164,BMW K 1600,2830000,1649.0 CC,15 Km/l,350 Kg
+165,Honda CB300R,277000,286.0 CC,30.2 Km/l,146 Kg
+167,Triumph Tiger 1200,1919000,1160.0 CC,18 Km/l,245 Kg
+168,Harley-Davidson Iron 883,938000,883.0 CC,20 Km/l,256 Kg
+169,Yezdi Adventure,209900,334.0 CC,,188 Kg
+171,Kawasaki Ninja ZX-10RR,1698000,998.0 CC,15 Km/l,206 Kg
+172,KTM 250 Adventure,242000,248.0 CC,35 Km/l,177 Kg
+173,JAWA 300,180415,293.0 CC,37.5 Km/l,170 Kg
+174,Harley-Davidson CVO Limited,4999000,1923.0 CC,8 Km/l,411 Kg
+175,Honda CRF1000L Africa Twin,1350000,999.1 CC,16 Km/l,243 Kg
+177,Kawasaki Ninja ZX-6R,1049000,636.0 CC,23.59 Km/l,196 Kg
+178,Ducati Panigale V4,2350000,1103.0 CC,14.5 Km/l,195 Kg
+179,Honda CBR650R,935000,648.7 CC,25 Km/l,211 Kg
+180,BMW R 1250 GS Adventure,2240000,1254.0 CC,21 Km/l,268 Kg
+181,Harley-Davidson Roadster,1099000,1202.0 CC,20 Km/l,250 Kg
+182,Kawasaki KLX 110,299500,112.0 CC,80 Km/l,76 Kg
+183,TVS Apache RTR 165 RP,145001,164.9 CC,,148 Kg
+184,Ducati Monster 797,803000,803.0 CC,18.86 Km/l,193 Kg
+185,Aprilia SR 160,117494,160.0 CC,35 Km/l,122 Kg
+186,Kawasaki Z1000R,1610000,1043.0 CC,15 Km/l,221 Kg
+187,BMW S 1000 R,1790000,999.0 CC,21 Km/l,199 Kg
+189,MV Agusta Brutale 800 RR,2052356,798.0 CC,18 Km/l,175 Kg
+190,Bajaj Pulsar F250,140000,249.1 CC,40 Km/l,164 Kg
+192,Ducati Monster 821,1099000,821.0 CC,13 - 18.51 Km/l,205 Kg
+193,Kawasaki Ninja ZX-14R,1970000,1441.0 CC,18 Km/l,269 Kg
+194,Aprilia RSV4,2369000,1099.0 CC,12 Km/l,202 Kg
+195,BMW 850 GS,1250000,853.0 CC,22 Km/l,229 Kg
+197,BMW 750 GS,899000,853.0 CC,22 Km/l,224 Kg
+199,KTM 790 Duke,863945,799.0 CC,22.72 Km/l,169 Kg
+201,Harley-Davidson Forty-Eight,1061000,1202.0 CC,20 Km/l,252 Kg
+202,Ducati  Multistrada V2,1465000,937.0 CC,16 Km/l,230 Kg
+203,Piaggio Vespa 150,122664,154.8 CC,45 Km/l,114 Kg
+204,Benelli TRK 251,251000,249.0 CC,24.39 Km/l,164 Kg
+206,Aprilia Storm 125,85431,124.5 CC,40 Km/l,122 Kg
+207,Triumph Street Triple,915000,765.0 CC,19.1 Km/l,166 Kg
+208,Harley-Davidson Sportster S,1551000,1252.0 CC,11.8 Km/l,228 Kg
+209,Kawasaki Vulcan S,616000,649.0 CC,23 Km/l,235 Kg
+210,Ducati Scrambler,799000,803.0 CC,20 Km/l,173 Kg
+211,Indian Scout,1269500,1131.0 CC,25 Km/l,244 Kg
+212,Mahindra Mojo,199000,295.0 CC,25 Km/l,186 Kg
+213,Kawasaki Ninja H2 SX,2289000,998.0 CC,15 Km/l,256 Kg
+214,Benelli Leoncino 250,250000,249.0 CC,37 Km/l,162 Kg
+215,Suzuki Gixxer 250,171200,249.0 CC,38 Km/l,156 Kg
+216,MV Agusta F4 RR,3883000,998.0 CC,15 Km/l,190 Kg
+217,Moto Guzzi Audace,2314000,1380.0 CC,15 Km/l,299 Kg
+218,Indian Chief Vintage,2532500,1811.0 CC,20 Km/l,379 Kg
+220,Kawasaki Ninja H2 SX SE,2819000,998.0 CC,15 Km/l,260 Kg
+221,Ducati Diavel 1260,1849000,1262.0 CC,18.5 Km/l,244 Kg
+222,KTM 390 Adventure,335000,373.0 CC,25 Km/l,158 Kg
+223,Harley-Davidson Street Bob,1259000,1745.0 CC,15 Km/l,286 Kg
+224,Benelli Leoncino,470000,500.0 CC,24 Km/l,150 Kg
+225,Indian Scout Sixty,1099500,999.0 CC,25 Km/l,254 Kg
+226,Honda CB 650 R,867275,648.7 CC,25 Km/l,206 Kg
+227,Ducati Hyperstrada,1215000,937.0 CC,20 Km/l,210 Kg
+228,BMW K 1600 B,2810000,1649.0 CC,15 Km/l,350 Kg
+229,Kawasaki Versys X-300,469000,296.0 CC,22 Km/l,184 Kg
+231,Suzuki V-Strom 650XT,884000,645.0 CC,,216 Kg
+234,FB Mondial HPS 300,337000,249.0 CC,26 Km/l,135 Kg
+235,Honda CRF1100L Africa Twin,1601500,1084.0 CC,20.4 - 20.8 Km/l,239 Kg
+236,Ducati Monster,1099000,937.0 CC,18.8 Km/l,188 Kg
+238,Benelli TRK 502,486000,500.0 CC,30.97 Km/l,235 Kg
+239,Ducati Scrambler 1100,1099000,1079.0 CC,19.2 Km/l,189 Kg
+240,Kawasaki KX250F,799000,249.0 CC,25 Km/l,104 Kg
+241,Indian Chief Dark Horse,2075922,1890.0 CC,20 Km/l,304 Kg
+242,TVS Apache RTR 200 FI E100,120000,197.8 CC,42 Km/l,152 Kg
+244,Indian Roadmaster,3900000,1811.0 CC,15 Km/l,421 Kg
+245,Harley-Davidson Softail Low Rider,1375000,1745.0 CC,15 Km/l,300 Kg
+246,Ducati 959 Panigale,1469000,955.0 CC,18 Km/l,200 Kg
+248,BMW F900R,1080000,895.0 CC,24 Km/l,211 Kg
+250,Harley-Davidson Softail Deluxe,1865000,1745.0 CC,15 Km/l,316 Kg
+251,Aprilia SR 125,107595,125.0 CC,40 Km/l,122 Kg
+252,Harley-Davidson 1200 Custom,1089000,1202.0 CC,24 Km/l,268 Kg
+253,BMW R 1200 GS Adventure,1725000,1170.0 CC,20 Km/l,263 Kg
+254,Ducati 1299 Panigale,5182000,1285.0 CC,15 Km/l,190 Kg
+255,Honda CB500X,687386,471.0 CC,28.6 Km/l,199 Kg
+257,Honda CB1000R +,1446657,998.0 CC,18 Km/l,213 Kg
+258,MV Agusta Brutale 800,1698553,798.0 CC,18 Km/l,175 Kg
+259,Ducati Multistrada 950,1549000,937.0 CC,16 Km/l,230 Kg
+260,Ducati Multistrada 1260,1599000,1262.0 CC,19.2 Km/l,232 Kg
+261,Triumph Trident 660,745000,660.0 CC,,189 Kg
+262,Aprilia SXR 160,126000,160.0 CC,,129 Kg
+263,Kawasaki KLX 140G,406600,144.0 CC,,99 Kg
+264,MV Agusta Turismo Veloce 800,2080665,798.0 CC,17 Km/l,191 Kg
+265,Kawasaki W800 Street,733000,773.0 CC,14 Km/l,221 Kg
+266,Moto Guzzi V9 Roamer,1479000,850.0 CC,18 Km/l,199 Kg
+267,Triumph Tiger 900,1370000,888.0 CC,17 - 24 Km/l,194 Kg
+268,Kawasaki KLX 450R,899000,449.0 CC,23 Km/l,126 Kg
+269,Ducati Monster 1200,2010000,1198.0 CC,15 Km/l,211 Kg
+270,CFMoto 300NK,229000,292.4 CC,33 Km/l,151 Kg
+271,Triumph Thruxton R,1192000,1200.0 CC,21 Km/l,203 Kg
+274,BMW R 1250 R,1625000,1254.0 CC,21 Km/l,239 Kg
+275,Benelli BN 302R,310000,300.0 CC,20 Km/l,198 Kg
+276,BMW S 1000 XR,2130000,999.0 CC,20 Km/l,216 Kg
+278,BMW R 1200 RT,1835000,1170.0 CC,20 Km/l,276 Kg
+279,MV Agusta Dragster 800 RR,2052356,798.0 CC,14.9 Km/l,168 Kg
+280,Kawasaki Z H2,2190000,998.0 CC,15 Km/l,239 Kg
+281,Lohia Omastar,40850,48.0 CC,60 Km/Full Charge,66 Kg
+282,Indian FTR 1200,1599000,1203.0 CC,18 Km/l,218 Kg
+283,Triumph Bonneville Bobber,1225000,1200.0 CC,24 Km/l,251 Kg
+284,CFMoto 650NK,429000,649.0 CC,21 Km/l,206 Kg
+286,Triumph Bonneville T120,1099000,1200.0 CC,18 Km/l,217 Kg
+287,Ducati XDiavel,1648000,1262.0 CC,15 Km/l,247 Kg
+289,BMW R nineT Scrambler,1675000,1197.0 CC,20 Km/l,220 Kg
+290,Triumph Bonneville T100,949000,900.0 CC,26.3 Km/l,228 Kg
+291,Indian Springfield,3350000,1811.0 CC,14 Km/l,391 Kg
+292,Kawasaki Z650,624000,649.0 CC,18 Km/l,186 Kg
+293,Avantura Choppers Pravega,2140000,2025.7 CC,18 Km/l,347 Kg
+294,Ducati Hypermotard,1112000,937.0 CC,20 Km/l,204 Kg
+297,CFMoto 650GT,559000,649.3 CC,20 Km/l,226 Kg
+298,BMW M 1000 RR,4200000,999.0 CC,,192 Kg
+299,Ducati Multistrada 1200,1532000,1198.4 CC,18 Km/l,232 Kg
+300,BMW R 1200 RS,1555000,1170.0 CC,20 Km/l,236 Kg
+301,Ducati Scrambler Desert Sled,980000,803.0 CC,20 Km/l,191 Kg
+302,Aprilia RS 660,1339000,659.0 CC,,183 Kg
+303,Triumph Street Scrambler,935000,900.0 CC,18 Km/l,223 Kg
+305,Triumph Rocket 3,1990000,2458.0 CC,13 - 14.66 Km/l,291 Kg
+306,Indian Chieftain,3201000,1811.0 CC,20 Km/l,389 Kg
+307,Benelli 502C,498000,500.0 CC,20 Km/l,216 Kg
+308,Triumph Tiger Sport 660,895000,660.0 CC,,206 Kg
+309,Cleveland Cyclewerks Misfit,249000,229.0 CC,30 Km/l,133 Kg
+310,Indian Roadmaster Elite,4800000,1811.0 CC,15 Km/l,433 Kg
+311,Ducati Multistrada 1200 Enduro,1799000,1198.4 CC,24 Km/l,254 Kg
+313,Harley-Davidson Street Glide Special,3053000,1745.0 CC,15 Km/l,361 Kg
+315,Moto Guzzi Eldorado,2367000,1380.0 CC,14 Km/l,314 Kg
+316,BMW C 400 GT,995000,350.0 CC,,202 Kg
+318,Ducati Multistrada V4,1899000,1158.0 CC,,232 Kg
+319,Aprilia SXR 125,115000,125.0 CC,,129 Kg
+321,Triumph Speedmaster,1195000,1200.0 CC,23.25 Km/l,263 Kg
+322,Harley-Davidson Road King,2499000,1745.0 CC,17 Km/l,362 Kg
+323,Indian Chief Bobber Dark Horse,2139925,1890.0 CC,20 Km/l,315 Kg
+324,Kawasaki KX 450,859000,449.0 CC,25 Km/l,110 Kg
+326,BMW R 18,1990000,1802.0 CC,17.8 Km/l,345 Kg
+327,Triumph Scrambler 1200,1073000,1200.0 CC,20.4 Km/l,225 Kg
+328,Triumph Tiger 850 Sport,1195000,888.0 CC,24 Km/l,192 Kg
+329,Kawasaki Z900RS,1570000,948.0 CC,20 Km/l,215 Kg
+331,Kawasaki Versys 650,715000,649.0 CC,20 Km/l,216 Kg
+332,Harley-Davidson Fat Bob,1459000,1745.0 CC,15 Km/l,296 Kg
+335,Ducati SuperSport,1349000,937.0 CC,20 Km/l,210 Kg
+336,Avantura Choppers Rudra,2390000,2025.7 CC,19 Km/l,344 Kg
+337,Kawasaki Versys 1000,1172000,1043.0 CC,14 Km/l,255 Kg
+338,Harley-Davidson Pan America 1250,1690000,1252.0 CC,18 Km/l,242 Kg
+339,Ducati Panigale V2,1748826,955.0 CC,16 Km/l,197 Kg
+340,BMW R 1250 RT,2250000,1254.0 CC,21 Km/l,279 Kg
+341,Moto Guzzi MGX-21,3026000,1380.0 CC,15 Km/l,341 Kg
+343,Kawasaki Z650RS,672000,649.0 CC,,192 Kg
+344,Triumph Speed Triple 1200 RS,1695000,1160.0 CC,22 Km/l,198 Kg
+345,Triumph Street Twin,795000,900.0 CC,18 Km/l,216 Kg
+346,Ducati StreetFighter V4,1999000,1103.0 CC,,199 Kg
+347,Kawasaki KX 100,487800,99.0 CC,55 Km/l,77 Kg
+348,Ducati Hypermotard 950,1402278,937.0 CC,9 Km/l,176 Kg
+349,Moto Guzzi V9 Bobber,1479000,850.0 CC,18 Km/l,199 Kg
+350,Aprilia Tuono 660,1309000,659.0 CC,,183 Kg
+352,BMW R 1200 R,1505000,1170.0 CC,20 Km/l,232 Kg
+353,Triumph  Speed Twin,1099000,1200.0 CC,20.8 Km/l,216 Kg
+354,Aprilia Tuono V4,2066000,1077.0 CC,14 Km/l,209 Kg
+355,Harley-Davidson Heritage Softail Classic,1971000,1745.0 CC,15 Km/l,316 Kg
+356,CFMoto 650MT,529000,649.0 CC,20 Km/l,218 Kg
+357,BMW K 1600 GTL,2930000,1649.0 CC,13 Km/l,332 Kg
+358,Indian Chieftain Dark Horse,2999000,1811.0 CC,18 Km/l,377 Kg
+360,Moto Guzzi V85 TT,1540000,853.0 CC,20.4 Km/l,229 Kg
+361,Indian Super Chief Limited,2282155,1890.0 CC,,324 Kg
+362,Indian Chief Classic,2129500,1811.0 CC,20 Km/l,357 Kg
+364,Cleveland Cyclewerks Ace Deluxe,223000,229.0 CC,33.98 Km/l,133 Kg
+365,Harley-Davidson Road Glide Special,3299000,1745.0 CC,15 Km/l,372 Kg
+367,Indian Chieftain Elite,3800000,1811.0 CC,18 Km/l,388 Kg
+370,MV Agusta Brutale 1090,2102268,1078.0 CC,15 Km/l,183 Kg
+371,BMW F900XR,1230000,895.0 CC,24 Km/l,219 Kg
+373,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+374,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+375,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+376,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+377,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+378,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+379,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+380,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+381,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+382,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+383,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+384,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+385,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+386,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+387,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+388,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+389,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+390,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+391,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+392,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+393,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+394,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+395,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+396,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+397,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+398,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+399,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+400,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+401,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+402,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+403,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+404,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+405,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+406,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+407,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+408,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+409,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+410,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+411,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+412,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+413,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+414,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+415,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+416,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+417,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+418,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+419,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+420,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+421,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+422,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+423,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+424,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+425,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+426,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+427,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+428,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+429,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+430,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+431,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+432,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+433,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+434,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+435,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+436,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+437,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+438,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+439,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+440,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+441,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+442,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+443,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+444,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+445,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+446,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+447,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+448,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+449,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+450,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+451,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+452,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+453,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+454,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+455,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+456,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+457,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+458,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+459,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+460,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+461,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+462,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+463,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+464,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+465,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+466,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+467,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+468,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+469,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+470,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+471,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+472,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+473,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+474,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+475,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+476,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+477,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+478,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+479,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+480,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+481,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+482,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+483,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+484,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+485,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+486,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+487,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+488,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+489,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+490,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+491,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+492,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+493,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+494,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+495,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+496,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+497,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+498,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+499,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+500,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+501,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+502,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+503,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+504,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+505,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+506,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+507,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+508,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+509,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+510,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+511,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+512,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+513,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+514,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+515,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+516,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+517,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+518,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+519,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+520,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+521,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+522,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+523,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+524,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+525,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+526,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+527,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+528,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+529,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+530,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+531,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+532,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+533,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+534,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+535,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+536,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+537,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+538,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+539,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+540,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+541,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+542,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+543,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+544,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+545,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+546,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+547,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+548,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+549,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+550,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+551,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+552,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+553,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+554,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+555,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+556,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+557,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+558,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+559,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+560,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+561,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+562,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+563,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+564,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+565,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+566,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+567,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+568,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+569,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+570,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+571,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+572,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+573,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+574,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+575,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+576,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+577,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+578,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+579,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+580,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+581,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+582,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+583,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+584,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+585,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+586,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+587,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+588,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+589,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+590,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+591,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+592,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+593,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+594,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+595,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+596,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+597,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+598,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+599,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+600,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+601,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+602,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+603,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+604,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+605,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+606,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+607,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+608,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+609,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+610,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+611,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+612,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+613,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+614,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+615,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+616,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+617,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+618,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+619,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+620,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+621,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+622,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+623,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+624,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+625,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+626,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+627,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+628,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+629,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+630,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+631,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+632,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+633,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+634,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+635,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+636,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+637,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+638,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+639,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+640,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+641,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+642,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+643,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+644,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+645,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+646,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+647,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+648,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+649,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+650,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+651,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+652,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+653,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+654,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+655,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+656,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+657,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+658,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+659,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+660,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+661,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+662,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+663,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+664,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+665,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+666,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+667,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+668,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+669,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+670,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+671,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+672,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+673,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+674,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+675,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+676,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+677,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+678,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+679,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+680,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+681,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+682,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+683,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+684,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+685,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+686,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+687,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+688,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+689,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+690,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+691,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+692,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+693,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+694,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+695,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+696,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+697,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+698,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+699,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+700,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+701,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+702,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+703,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+704,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+705,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+706,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+707,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+708,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+709,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+710,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+711,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+712,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+713,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+714,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+715,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+716,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+717,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+718,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+719,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+720,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+721,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+722,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+723,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+724,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+725,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+726,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+727,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+728,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+729,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+730,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+731,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+732,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+733,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+734,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+735,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+736,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+737,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+738,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+739,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+740,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+741,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+742,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+743,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+744,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+745,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+746,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+747,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+748,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+749,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+750,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+751,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+752,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+753,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+754,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+755,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+756,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+757,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+758,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+759,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+760,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+761,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+762,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+763,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+764,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+765,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+766,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+767,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+768,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+769,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+770,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+771,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+772,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+773,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+774,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+775,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+776,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+777,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+778,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+779,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+780,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+781,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+782,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+783,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+784,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+785,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+786,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+787,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+788,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+789,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+790,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+791,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+792,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+793,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+794,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+795,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+796,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+797,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+798,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+799,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+800,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+801,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+802,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+803,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+804,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+805,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+806,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+807,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+808,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+809,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+810,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+811,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+812,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+813,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+814,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+815,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+816,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+817,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+818,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+819,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+820,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+821,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+822,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+823,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+824,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+825,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+826,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+827,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+828,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+829,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+830,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+831,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+832,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+833,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+834,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+835,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+836,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+837,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+838,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+839,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+840,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+841,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+842,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+843,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+844,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+845,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+846,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+847,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+848,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+849,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+850,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+851,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+852,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+853,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+854,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+855,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+856,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+857,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+858,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+859,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+860,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+861,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+862,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+863,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+864,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+865,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+866,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+867,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+868,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+869,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+870,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+871,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+872,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+873,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+874,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+875,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+876,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+877,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+878,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+879,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+880,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+881,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+882,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+883,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+884,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+885,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+886,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+887,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+888,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+889,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+890,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+891,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+892,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+893,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+894,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+895,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+896,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+897,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+898,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+899,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+900,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+901,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+902,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+903,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+904,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+905,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+906,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+907,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+908,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+909,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+910,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+911,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+912,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+913,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+914,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+915,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+916,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+917,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+918,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+919,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+920,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+921,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+922,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+923,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+924,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+925,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+926,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+927,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+928,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+929,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+930,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+931,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+932,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+933,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+934,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+935,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+936,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+937,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+938,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+939,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+940,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+941,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+942,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+943,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+944,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+945,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+946,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+947,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+948,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+949,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+950,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+951,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+952,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+953,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+954,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+955,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+956,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+957,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+958,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+959,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+960,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+961,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+962,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+963,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+964,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+965,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+966,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+967,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+968,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+969,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+970,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+971,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+972,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+973,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+974,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+975,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+976,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+977,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+978,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+979,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+980,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+981,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+982,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+983,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+984,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+985,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+986,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+987,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+988,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+989,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+990,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+991,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+992,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+993,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+994,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+995,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+996,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+997,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+998,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+999,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1000,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1001,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1002,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1003,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1004,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1005,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1006,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1007,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1008,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1009,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1010,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1011,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1012,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1013,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1014,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1015,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1016,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1017,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1018,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1019,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1020,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1021,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1022,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1023,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1024,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1025,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1026,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1027,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1028,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1029,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1030,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1031,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1032,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1033,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1034,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1035,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1036,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1037,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1038,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1039,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1040,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1041,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1042,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1043,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1044,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1045,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1046,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1047,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1048,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1049,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1050,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1051,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1052,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1053,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1054,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1055,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1056,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1057,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1058,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1059,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1060,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1061,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1062,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1063,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1064,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1065,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1066,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1067,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1068,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1069,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1070,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1071,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1072,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1073,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1074,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1075,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1076,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1077,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1078,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1079,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1080,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1081,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1082,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1083,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1084,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1085,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1086,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1087,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1088,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1089,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1090,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1091,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1092,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1093,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1094,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1095,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1096,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1097,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1098,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1099,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1100,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1101,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1102,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1103,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1104,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1105,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1106,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1107,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1108,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1109,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1110,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1111,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1112,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1113,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1114,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1115,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1116,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1117,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1118,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1119,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1120,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1121,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1122,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1123,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1124,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1125,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1126,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1127,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1128,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1129,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1130,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1131,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1132,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1133,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1134,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1135,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1136,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1137,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1138,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1139,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1140,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1141,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1142,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1143,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1144,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1145,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1146,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1147,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1148,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1149,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1150,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1151,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1152,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1153,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1154,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1155,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1156,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1157,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1158,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1159,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1160,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1161,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1162,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1163,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1164,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1165,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1166,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1167,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1168,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1169,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1170,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1171,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1172,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1173,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1174,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1175,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1176,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1177,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1178,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1179,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1180,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1181,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1182,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1183,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1184,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1185,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1186,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1187,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1188,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1189,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1190,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1191,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1192,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1193,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1194,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1195,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1196,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1197,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1198,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1199,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1200,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1201,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1202,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1203,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1204,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1205,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1206,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1207,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1208,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1209,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1210,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1211,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1212,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1213,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1214,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1215,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1216,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1217,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1218,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1219,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1220,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1221,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1222,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1223,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1224,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1225,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1226,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1227,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1228,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1229,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1230,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1231,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1232,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1233,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1234,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1235,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1236,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1237,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1238,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1239,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1240,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1241,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1242,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1243,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1244,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1245,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1246,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1247,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1248,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1249,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1250,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1251,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1252,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1253,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1254,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1255,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1256,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1257,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1258,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1259,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1260,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1261,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1262,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1263,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1264,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1265,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1266,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1267,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1268,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1269,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1270,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1271,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1272,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1273,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1274,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1275,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1276,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1277,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1278,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1279,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1280,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1281,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1282,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1283,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1284,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1285,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1286,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1287,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1288,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1289,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1290,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1291,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1292,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1293,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1294,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1295,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1296,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1297,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1298,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1299,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1300,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1301,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1302,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1303,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1304,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1305,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1306,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1307,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1308,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1309,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1310,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1311,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1312,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1313,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1314,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1315,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1316,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1317,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1318,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1319,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1320,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1321,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1322,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1323,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1324,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1325,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1326,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1327,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1328,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1329,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1330,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1331,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1332,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1333,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1334,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1335,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1336,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1337,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1338,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1339,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1340,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1341,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1342,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1343,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1344,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1345,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1346,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1347,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1348,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1349,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1350,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1351,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1352,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1353,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1354,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1355,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1356,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1357,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1358,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1359,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1360,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1361,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1362,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1363,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1364,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1365,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1366,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1367,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1368,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1369,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1370,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1371,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1372,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1373,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1374,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1375,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1376,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1377,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1378,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1379,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1380,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1381,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1382,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1383,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1384,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1385,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1386,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1387,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1388,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1389,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1390,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1391,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1392,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1393,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1394,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1395,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1396,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1397,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1398,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1399,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1400,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1401,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1402,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1403,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1404,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1405,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1406,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1407,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1408,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1409,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1410,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1411,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1412,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1413,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1414,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1415,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1416,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1417,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1418,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1419,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1420,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1421,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1422,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1423,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1424,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1425,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1426,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1427,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1428,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1429,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1430,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1431,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1432,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1433,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1434,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1435,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1436,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1437,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1438,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1439,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1440,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1441,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1442,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1443,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1444,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1445,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1446,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1447,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1448,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1449,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1450,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1451,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1452,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1453,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1454,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1455,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1456,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1457,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1458,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1459,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1460,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1461,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1462,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1463,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1464,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1465,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1466,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1467,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1468,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1469,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1470,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1471,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1472,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1473,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1474,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1475,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1476,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1477,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1478,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1479,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1480,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1481,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1482,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1483,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1484,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1485,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1486,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1487,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1488,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1489,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1490,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1491,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1492,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1493,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1494,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1495,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1496,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1497,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1498,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1499,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1500,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1501,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1502,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1503,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1504,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1505,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1506,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1507,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1508,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1509,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1510,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1511,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1512,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1513,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1514,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1515,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1516,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1517,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1518,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1519,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1520,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1521,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1522,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1523,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1524,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1525,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1526,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1527,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1528,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1529,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1530,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1531,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1532,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1533,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1534,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1535,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1536,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1537,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1538,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1539,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1540,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1541,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1542,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1543,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1544,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1545,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1546,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1547,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1548,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1549,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1550,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1551,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1552,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1553,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1554,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1555,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1556,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1557,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1558,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1559,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1560,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1561,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1562,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1563,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1564,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1565,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1566,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1567,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1568,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1569,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1570,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1571,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1572,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1573,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1574,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1575,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1576,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1577,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1578,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1579,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1580,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1581,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1582,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1583,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1584,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1585,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1586,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1587,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1588,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1589,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1590,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1591,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1592,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1593,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1594,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1595,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1596,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1597,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1598,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1599,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1600,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1601,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1602,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1603,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1604,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1605,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1606,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1607,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1608,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1609,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1610,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1611,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1612,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1613,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1614,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1615,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1616,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1617,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1618,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1619,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1620,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1621,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1622,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1623,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1624,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1625,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1626,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1627,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1628,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1629,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1630,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1631,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1632,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1633,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1634,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1635,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1636,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1637,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1638,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1639,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1640,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1641,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1642,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1643,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1644,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1645,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1646,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1647,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1648,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1649,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1650,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1651,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1652,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1653,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1654,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1655,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1656,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1657,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1658,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1659,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1660,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1661,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1662,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1663,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1664,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1665,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1666,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1667,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1668,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1669,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1670,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1671,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1672,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1673,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1674,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1675,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1676,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1677,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1678,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1679,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1680,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1681,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1682,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1683,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1684,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1685,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1686,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1687,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1688,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1689,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1690,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1691,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1692,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1693,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1694,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1695,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1696,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1697,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1698,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1699,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1700,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1701,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1702,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1703,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1704,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1705,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1706,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1707,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1708,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1709,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1710,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1711,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1712,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1713,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1714,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1715,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1716,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1717,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1718,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1719,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1720,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1721,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1722,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1723,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1724,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1725,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1726,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1727,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1728,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1729,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1730,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1731,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1732,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1733,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1734,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1735,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1736,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1737,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1738,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1739,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1740,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1741,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1742,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1743,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1744,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1745,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1746,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1747,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1748,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1749,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1750,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1751,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1752,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1753,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1754,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1755,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1756,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1757,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1758,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1759,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1760,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1761,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1762,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1763,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1764,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1765,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1766,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1767,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1768,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1769,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1770,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1771,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1772,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1773,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1774,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1775,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1776,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1777,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1778,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1779,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1780,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1781,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1782,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1783,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1784,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1785,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1786,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1787,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1788,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1789,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1790,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1791,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1792,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1793,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1794,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1795,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1796,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1797,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1798,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1799,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1800,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1801,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1802,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1803,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1804,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1805,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1806,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1807,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1808,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1809,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1810,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1811,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1812,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1813,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1814,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1815,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1816,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1817,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1818,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1819,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1820,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1821,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1822,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1823,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1824,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1825,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1826,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1827,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1828,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1829,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1830,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1831,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1832,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1833,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1834,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1835,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1836,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1837,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1838,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1839,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1840,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1841,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1842,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1843,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1844,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1845,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1846,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1847,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1848,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1849,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1850,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1851,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1852,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1853,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1854,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1855,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1856,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1857,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1858,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1859,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1860,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1861,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1862,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1863,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1864,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1865,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1866,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1867,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1868,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1869,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1870,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1871,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1872,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1873,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1874,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1875,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1876,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1877,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1878,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1879,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1880,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1881,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1882,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1883,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1884,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1885,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1886,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1887,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1888,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1889,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1890,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1891,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1892,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1893,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1894,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1895,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1896,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1897,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1898,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1899,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1900,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1901,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1902,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1903,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1904,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1905,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1906,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1907,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1908,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1909,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1910,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1911,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1912,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1913,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1914,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1915,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1916,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1917,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1918,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1919,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1920,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1921,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1922,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1923,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1924,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1925,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1926,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1927,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1928,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1929,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1930,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1931,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1932,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1933,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1934,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1935,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1936,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1937,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1938,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1939,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1940,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1941,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1942,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1943,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1944,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1945,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1946,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1947,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1948,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1949,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1950,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1951,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1952,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1953,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1954,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1955,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1956,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1957,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1958,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1959,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1960,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1961,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1962,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1963,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1964,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1965,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1966,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1967,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1968,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1969,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1970,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1971,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1972,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1973,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1974,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1975,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1976,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1977,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1978,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1979,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1980,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1981,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1982,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1983,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1984,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1985,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1986,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1987,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+1988,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+1989,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+1990,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+1991,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+1992,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+1993,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+1994,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+1995,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+1996,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+1997,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+1998,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+1999,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2000,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2001,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2002,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2003,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2004,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2005,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2006,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2007,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2008,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2009,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2010,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2011,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2012,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2013,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2014,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2015,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2016,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2017,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2018,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2019,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2020,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2021,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2022,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2023,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2024,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2025,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2026,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2027,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2028,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2029,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2030,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2031,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2032,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2033,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2034,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2035,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2036,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2037,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2038,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2039,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2040,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2041,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2042,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2043,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2044,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2045,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2046,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2047,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2048,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2049,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2050,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2051,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2052,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2053,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2054,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2055,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2056,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2057,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2058,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2059,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2060,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2061,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2062,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2063,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2064,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2065,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2066,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2067,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2068,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2069,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2070,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2071,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2072,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2073,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2074,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2075,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2076,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2077,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2078,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2079,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2080,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2081,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2082,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2083,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2084,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2085,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2086,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2087,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2088,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2089,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2090,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2091,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2092,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2093,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2094,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2095,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2096,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2097,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2098,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2099,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2100,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2101,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2102,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2103,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2104,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2105,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2106,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2107,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2108,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2109,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2110,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2111,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2112,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2113,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2114,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2115,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2116,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2117,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2118,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2119,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2120,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2121,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2122,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2123,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2124,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2125,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2126,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2127,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2128,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2129,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2130,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2131,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2132,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2133,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2134,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2135,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2136,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2137,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2138,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2139,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2140,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2141,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2142,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2143,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2144,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2145,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2146,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2147,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2148,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2149,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2150,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2151,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2152,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2153,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2154,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2155,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2156,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2157,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2158,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2159,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2160,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2161,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2162,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2163,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2164,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2165,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2166,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2167,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2168,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2169,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2170,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2171,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2172,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2173,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2174,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2175,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2176,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2177,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2178,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2179,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2180,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2181,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2182,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2183,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2184,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2185,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2186,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2187,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2188,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2189,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2190,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2191,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2192,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2193,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2194,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2195,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2196,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2197,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2198,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2199,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2200,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2201,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2202,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2203,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2204,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2205,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2206,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2207,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2208,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2209,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2210,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2211,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2212,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2213,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2214,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2215,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2216,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2217,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2218,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2219,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2220,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2221,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2222,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2223,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2224,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2225,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2226,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2227,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2228,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2229,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2230,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2231,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2232,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2233,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2234,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2235,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2236,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2237,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2238,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2239,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2240,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2241,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2242,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2243,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2244,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2245,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2246,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2247,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2248,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2249,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2250,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2251,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2252,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2253,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2254,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2255,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2256,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2257,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2258,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2259,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2260,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2261,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2262,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2263,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2264,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2265,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2266,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2267,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2268,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2269,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2270,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2271,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2272,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2273,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2274,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2275,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2276,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2277,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2278,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2279,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2280,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2281,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2282,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2283,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2284,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2285,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2286,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2287,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2288,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2289,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2290,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2291,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2292,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2293,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2294,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2295,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2296,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2297,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2298,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2299,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2300,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2301,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2302,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2303,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2304,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2305,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2306,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2307,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2308,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2309,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2310,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2311,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2312,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2313,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2314,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2315,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2316,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2317,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2318,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2319,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2320,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2321,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2322,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2323,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2324,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2325,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2326,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2327,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2328,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2329,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2330,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2331,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2332,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2333,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2334,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2335,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2336,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2337,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2338,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2339,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2340,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2341,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2342,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2343,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2344,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2345,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2346,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2347,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2348,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2349,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2350,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2351,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2352,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2353,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2354,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2355,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2356,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2357,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2358,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2359,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2360,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2361,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2362,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2363,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2364,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2365,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2366,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2367,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2368,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2369,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2370,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2371,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2372,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2373,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2374,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2375,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2376,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2377,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2378,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2379,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2380,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2381,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2382,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2383,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2384,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2385,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2386,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2387,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2388,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2389,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2390,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2391,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2392,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2393,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2394,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2395,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2396,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2397,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2398,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2399,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2400,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2401,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2402,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2403,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2404,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2405,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2406,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2407,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2408,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2409,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2410,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2411,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2412,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2413,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2414,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2415,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2416,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2417,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2418,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2419,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2420,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2421,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2422,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2423,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2424,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2425,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2426,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2427,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2428,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2429,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2430,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2431,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2432,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2433,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2434,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2435,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2436,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2437,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2438,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2439,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2440,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2441,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2442,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2443,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2444,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2445,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2446,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2447,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2448,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2449,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2450,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2451,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2452,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2453,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2454,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2455,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2456,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2457,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2458,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2459,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2460,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2461,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2462,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2463,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2464,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2465,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2466,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2467,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2468,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2469,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2470,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2471,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2472,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2473,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2474,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2475,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2476,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2477,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2478,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2479,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2480,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2481,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2482,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2483,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2484,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2485,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2486,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2487,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2488,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2489,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2490,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2491,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2492,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2493,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2494,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2495,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2496,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2497,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2498,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2499,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2500,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2501,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2502,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2503,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2504,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2505,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2506,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2507,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2508,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2509,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2510,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2511,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2512,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2513,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2514,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2515,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2516,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2517,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2518,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2519,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2520,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2521,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2522,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2523,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2524,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2525,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2526,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2527,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2528,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2529,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2530,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2531,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2532,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2533,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2534,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2535,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2536,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2537,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2538,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2539,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2540,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2541,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2542,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2543,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2544,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2545,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2546,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2547,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2548,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2549,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2550,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2551,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2552,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2553,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2554,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2555,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2556,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2557,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2558,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2559,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2560,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2561,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2562,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2563,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2564,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2565,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2566,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2567,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2568,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2569,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2570,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2571,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2572,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2573,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2574,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2575,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2576,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2577,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2578,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2579,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2580,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2581,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2582,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2583,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2584,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2585,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2586,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2587,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2588,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2589,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2590,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2591,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2592,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2593,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2594,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2595,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2596,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2597,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2598,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2599,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2600,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2601,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2602,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2603,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2604,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2605,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2606,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2607,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2608,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2609,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2610,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2611,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2612,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2613,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2614,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2615,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2616,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2617,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2618,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2619,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2620,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2621,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2622,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2623,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2624,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2625,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2626,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2627,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2628,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2629,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2630,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2631,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2632,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2633,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2634,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2635,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2636,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2637,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2638,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2639,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2640,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2641,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2642,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2643,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2644,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2645,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2646,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2647,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2648,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2649,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2650,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2651,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2652,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2653,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2654,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2655,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2656,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2657,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2658,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2659,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2660,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2661,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2662,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2663,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2664,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2665,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2666,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2667,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2668,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2669,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2670,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2671,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2672,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2673,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2674,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2675,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2676,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2677,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2678,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2679,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2680,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2681,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2682,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2683,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2684,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2685,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2686,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2687,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2688,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2689,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2690,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2691,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2692,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2693,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2694,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2695,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2696,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2697,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2698,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2699,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2700,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2701,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2702,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2703,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2704,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2705,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2706,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2707,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2708,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2709,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2710,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2711,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2712,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2713,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2714,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2715,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2716,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2717,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2718,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2719,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2720,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2721,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2722,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2723,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2724,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2725,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2726,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2727,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2728,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2729,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2730,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2731,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2732,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2733,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2734,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2735,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2736,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2737,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2738,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2739,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2740,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2741,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2742,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2743,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2744,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2745,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2746,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2747,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2748,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2749,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2750,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2751,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2752,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2753,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2754,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2755,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2756,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2757,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2758,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2759,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2760,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2761,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2762,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2763,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2764,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2765,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2766,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2767,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2768,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2769,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2770,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2771,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2772,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2773,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2774,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2775,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2776,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2777,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2778,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2779,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2780,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2781,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2782,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2783,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2784,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2785,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2786,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2787,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2788,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2789,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2790,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2791,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2792,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2793,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2794,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2795,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2796,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2797,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2798,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2799,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2800,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2801,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2802,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2803,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2804,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2805,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2806,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2807,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2808,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2809,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2810,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2811,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2812,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2813,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2814,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2815,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2816,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2817,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2818,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2819,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2820,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2821,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2822,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2823,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2824,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2825,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2826,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2827,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2828,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2829,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2830,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2831,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2832,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2833,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2834,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2835,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2836,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2837,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2838,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2839,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2840,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2841,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2842,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2843,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2844,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2845,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2846,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2847,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2848,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2849,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2850,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2851,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2852,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2853,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2854,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2855,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2856,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2857,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2858,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2859,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2860,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2861,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2862,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2863,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2864,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2865,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2866,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2867,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2868,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2869,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2870,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2871,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2872,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2873,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2874,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2875,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2876,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2877,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2878,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2879,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2880,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2881,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2882,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2883,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2884,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2885,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2886,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2887,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2888,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2889,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2890,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2891,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2892,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2893,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2894,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2895,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2896,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2897,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2898,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2899,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2900,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2901,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2902,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2903,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2904,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2905,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2906,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2907,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2908,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2909,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2910,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2911,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2912,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2913,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2914,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2915,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2916,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2917,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2918,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2919,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2920,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2921,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2922,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2923,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2924,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2925,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2926,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2927,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2928,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2929,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2930,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2931,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2932,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2933,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2934,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2935,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2936,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2937,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2938,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2939,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2940,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2941,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2942,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2943,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2944,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2945,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2946,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2947,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2948,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2949,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2950,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2951,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2952,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2953,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2954,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2955,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2956,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2957,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2958,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2959,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2960,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2961,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2962,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2963,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2964,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2965,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2966,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2967,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2968,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2969,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2970,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2971,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2972,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2973,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2974,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2975,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2976,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2977,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2978,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2979,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2980,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2981,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2982,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2983,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2984,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2985,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2986,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2987,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+2988,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+2989,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+2990,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+2991,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+2992,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+2993,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+2994,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+2995,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+2996,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+2997,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+2998,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+2999,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3000,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3001,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3002,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3003,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3004,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3005,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3006,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3007,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3008,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3009,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3010,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3011,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3012,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3013,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3014,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3015,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3016,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3017,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3018,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3019,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3020,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3021,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3022,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3023,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3024,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3025,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3026,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3027,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3028,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3029,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3030,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3031,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3032,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3033,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3034,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3035,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3036,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3037,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3038,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3039,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3040,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3041,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3042,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3043,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3044,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3045,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3046,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3047,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3048,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3049,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3050,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3051,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3052,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3053,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3054,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3055,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3056,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3057,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3058,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3059,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3060,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3061,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3062,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3063,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3064,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3065,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3066,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3067,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3068,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3069,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3070,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3071,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3072,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3073,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3074,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3075,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3076,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3077,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3078,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3079,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3080,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3081,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3082,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3083,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3084,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3085,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3086,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3087,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3088,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3089,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3090,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3091,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3092,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3093,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3094,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3095,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3096,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3097,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3098,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3099,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3100,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3101,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3102,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3103,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3104,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3105,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3106,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3107,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3108,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3109,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3110,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3111,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3112,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3113,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3114,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3115,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3116,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3117,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3118,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3119,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3120,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3121,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3122,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3123,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3124,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3125,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3126,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3127,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3128,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3129,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3130,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3131,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3132,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3133,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3134,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3135,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3136,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3137,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3138,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3139,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3140,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3141,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3142,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3143,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3144,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3145,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3146,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3147,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3148,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3149,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3150,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3151,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3152,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3153,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3154,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3155,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3156,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3157,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3158,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3159,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3160,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3161,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3162,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3163,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3164,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3165,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3166,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3167,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3168,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3169,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3170,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3171,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3172,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3173,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3174,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3175,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3176,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3177,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3178,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3179,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3180,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3181,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3182,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3183,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3184,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3185,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3186,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3187,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3188,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3189,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3190,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3191,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3192,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3193,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3194,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3195,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3196,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3197,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3198,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3199,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3200,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3201,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3202,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3203,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3204,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3205,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3206,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3207,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3208,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3209,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3210,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3211,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3212,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3213,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3214,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3215,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3216,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3217,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3218,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3219,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3220,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3221,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3222,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3223,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3224,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3225,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3226,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3227,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3228,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3229,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3230,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3231,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3232,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3233,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3234,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3235,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3236,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3237,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3238,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3239,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3240,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3241,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3242,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3243,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3244,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3245,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3246,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3247,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3248,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3249,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3250,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3251,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3252,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3253,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3254,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3255,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3256,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3257,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3258,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3259,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3260,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3261,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3262,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3263,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3264,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3265,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3266,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3267,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3268,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3269,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3270,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3271,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3272,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3273,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3274,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3275,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3276,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3277,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3278,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3279,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3280,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3281,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3282,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3283,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3284,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3285,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3286,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3287,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3288,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3289,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3290,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3291,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3292,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3293,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3294,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3295,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3296,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3297,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3298,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3299,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3300,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3301,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3302,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3303,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3304,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3305,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3306,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3307,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3308,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3309,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3310,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3311,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3312,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3313,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3314,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3315,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3316,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3317,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3318,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3319,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3320,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3321,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3322,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3323,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3324,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3325,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3326,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3327,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3328,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3329,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3330,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3331,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3332,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3333,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3334,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3335,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3336,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3337,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3338,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3339,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3340,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3341,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3342,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3343,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3344,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3345,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3346,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3347,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3348,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3349,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3350,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3351,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3352,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3353,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3354,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3355,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3356,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3357,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3358,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3359,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3360,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3361,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3362,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3363,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3364,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3365,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3366,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3367,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3368,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3369,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3370,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3371,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3372,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3373,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3374,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3375,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3376,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3377,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3378,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3379,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3380,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3381,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3382,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3383,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3384,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3385,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3386,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3387,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3388,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3389,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3390,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3391,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3392,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3393,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3394,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3395,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3396,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3397,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3398,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3399,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3400,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3401,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3402,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3403,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3404,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3405,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3406,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3407,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3408,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3409,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3410,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3411,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3412,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3413,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3414,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3415,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3416,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3417,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3418,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3419,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3420,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3421,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3422,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3423,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3424,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3425,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3426,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3427,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3428,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3429,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3430,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3431,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3432,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3433,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3434,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3435,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3436,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3437,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3438,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3439,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3440,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3441,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3442,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3443,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3444,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3445,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3446,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3447,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3448,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3449,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3450,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3451,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3452,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3453,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3454,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3455,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3456,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3457,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3458,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3459,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3460,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3461,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3462,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3463,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3464,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3465,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3466,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3467,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3468,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3469,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3470,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3471,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3472,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3473,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3474,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3475,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3476,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3477,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3478,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3479,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3480,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3481,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3482,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3483,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3484,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3485,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3486,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3487,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3488,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3489,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3490,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3491,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3492,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3493,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3494,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3495,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3496,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3497,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3498,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3499,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3500,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3501,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3502,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3503,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3504,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3505,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3506,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3507,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3508,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3509,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3510,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3511,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3512,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3513,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3514,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3515,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3516,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3517,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3518,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3519,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3520,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3521,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3522,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3523,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3524,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3525,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3526,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3527,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3528,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3529,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3530,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3531,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3532,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3533,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3534,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3535,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3536,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3537,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3538,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3539,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3540,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3541,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3542,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3543,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3544,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3545,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3546,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3547,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3548,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3549,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3550,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3551,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3552,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3553,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3554,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3555,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3556,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3557,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3558,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3559,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3560,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3561,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3562,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3563,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3564,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3565,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3566,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3567,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3568,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3569,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3570,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3571,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3572,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3573,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3574,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3575,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3576,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
+3577,Royal Enfield Himalayan,210784,411.0 CC,45 Km/l,191 Kg
+3578,Royal Enfield Classic Chrome,188868,499.0 CC,27 Km/l,194 Kg
+3579,Royal Enfield Meteor 350,205844,349.0 CC,41.88 Km/l,183 Kg
+3580,Royal Enfield Bullet 350,127094,346.0 CC,45 Km/l,183 Kg
+3581,Hero Splendor +,69380,97.2 CC,70 Km/l,110 Kg
+3582,Honda CB Shine,72787,124.7 CC,65 Km/l,114 Kg
+3583,Honda Activa 6G,69645,109.5 CC,45 Km/l,107 Kg
+3584,Royal Enfield Classic 350,184374,349.0 CC,37 Km/l,195 Kg
+3585,Yamaha MT-15,144900,155.0 CC,48 Km/l,138 Kg
+3586,Honda Dio,64510,109.5 CC,55 Km/l,103 Kg
+3587,Honda SP 125,78381,124.0 CC,65 Km/l,117 Kg
+3588,Hero HF Deluxe,48950,97.2 CC,83 Km/l,109 Kg
